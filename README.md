@@ -1,7 +1,4 @@
-- 👋 hi, I’m @samiyabalu
-- 👀 I’m interested in OpenCV and ML
-- 🌱 I’m currently learning OpenCV
-- 💞️ I’m looking to collaborate on anything tbh
+bruh
 
 <!---
 samiyabalu/samiyabalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
